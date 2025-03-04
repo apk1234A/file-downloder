@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/bin/sh
 
 echo "Enter the download URL:"
 read url
